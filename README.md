@@ -7,7 +7,7 @@ This a practice project for Classification model with different models like Logi
 
 # A Classification Problem which predicts if a loan will get approved or not.
 
-Dataset- The data has 615 rows and 13 columns.
+Dataset- The data has (614, 13) rows and columns
 
 Dataset Description-
 
