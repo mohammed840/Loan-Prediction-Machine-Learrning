@@ -1,7 +1,7 @@
 # Loan-Prediction-Machine-Learrning
 
 
-
+This a practice project for Classification model with different models like Logistic Regression, Random Forest Classifier and KNeighborsClassifier
 
 
 
